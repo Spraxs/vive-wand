@@ -1,0 +1,7 @@
+name: ViveWand
+version: ${project.version}
+main: nl.spraxs.vivewand.ViveWand
+description: VR Minecraft Effects
+
+depend:
+  - Vivecraft-Spigot-Extensions
