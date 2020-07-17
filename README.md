@@ -1,3 +1,3 @@
 # Vive Wand
 
-This project uses: [Vive Craft](http://www.vivecraft.org/)
+This project uses: [ViveCraft](http://www.vivecraft.org/)
